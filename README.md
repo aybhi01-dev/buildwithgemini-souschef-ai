@@ -2,6 +2,8 @@
 
 SousChef AI is an intelligent culinary assistant powered by Google Agent Development Kit (ADK), Vertex AI, and Google Cloud Platform. It assists home cooks and food lovers with recipe discovery, nutritional macro calculations, pantry ingredient suggestions, AI dish photography, cooking technique video animations, and recipe bookmarking in Firestore.
 
+![SousChef AI Demo Video](demo.gif)
+
 ---
 
 ## 🚀 Woven Capabilities & GCP Integrations
